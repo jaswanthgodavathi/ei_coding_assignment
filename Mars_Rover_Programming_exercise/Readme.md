@@ -57,7 +57,7 @@ Enter command: move
 Enter command: turn right
 Enter command: exit
 
-### Sample Output:
+## Sample Output:
 Current Grid State:
 🟩 🟩 🟩 🟩 🟩 
 🟩 🟩 🪨 🟩 🟩 
