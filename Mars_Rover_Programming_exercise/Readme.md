@@ -56,3 +56,35 @@ Enter command: turn left
 Enter command: move
 Enter command: turn right
 Enter command: exit
+
+### Sample Output:
+Current Grid State:
+🟩 🟩 🟩 🟩 🟩 
+🟩 🟩 🪨 🟩 🟩 
+🟩 🟩 ⬆️ 🟩 🟩 
+🟩 🟩 🟩 🪨 🟩 
+🟩 🟩 🟩 🟩 🟩 
+
+Current Grid State:
+🟩 🟩 🟩 🟩 🟩 
+🟩 🟩 🪨 🟩 🟩 
+🟩 🟩 ⬅️ 🟩 🟩 
+🟩 🟩 🟩 🪨 🟩 
+🟩 🟩 🟩 🟩 🟩 
+
+Current Grid State:
+🟩 🟩 🟩 🟩 🟩 
+🟩 🟩 ⬅️ 🪨 🟩 
+🟩 🟩 🟩 🟩 🟩 
+🟩 🟩 🟩 🪨 🟩 
+🟩 🟩 🟩 🟩 🟩 
+
+Current Grid State:
+🟩 🟩 🟩 🟩 🟩 
+🟩 🟩 🪨 🟩 🟩 
+🟩 🟩 ⬆️ 🟩 🟩 
+🟩 🟩 🟩 🪨 🟩 
+🟩 🟩 🟩 🟩 🟩 
+
+Exiting simulation.
+
