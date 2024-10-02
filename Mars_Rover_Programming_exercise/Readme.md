@@ -1,6 +1,6 @@
 # 🚀 Mars Rover Simulation Design Patterns
 
-Welcome to the **Mars Rover Simulation Project!** 🌌 This project implements various software design patterns to build a flexible, modular, and easily extendable system for controlling and monitoring a Mars Rover. Below, we’ll walk through six use cases that demonstrate key **behavioral**, **creational**, and **structural** design patterns. These patterns ensure **scalability**, **maintainability**, and **flexibility** in the code.
+Welcome to the **Mars Rover Simulation Project!** 🌌 This project implements various software design patterns to build a flexible, modular, and easily extendable system for controlling and monitoring a Mars Rover. Below, we’ll walk through six use cases that demonstrate key **behavioral**, **creational**, and **structural** design patterns. These patterns ensure **scalability**, **maintainability**, and **flexibility** in the code. Run ***MarsRoverSimulation.java***💨.
 
 ## 1. Behavioral Design Patterns 🧠
 
